@@ -8,12 +8,11 @@ This project predicts stock market trends using a deep learning model combining 
 - **News Sentiment Analysis** to incorporate market sentiment.
 - **Deep Learning Model:** STAN-based CNN & LSTM hybrid model.
 - **Real-time Data Processing** from financial APIs.
-- **Interactive Visualizations** for market trends and predictions.
 
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Machine Learning:** TensorFlow, Keras, Scikit-learn
-- **Natural Language Processing:** STAN (Sentiment Analysis), NLTK, VADER
+- **Natural Language Processing:** STAN (Sentiment Analysis)
 - **Data Handling:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Data Sources:** Yahoo Finance API, News APIs
